@@ -5,7 +5,7 @@ balancer:
   restart: always
   links:
   - frontend1
-  – frontend2
+  - frontend2
 frontend1:
   build: ../frontend1/Dockerfile
   restart: always
