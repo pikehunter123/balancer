@@ -1,3 +1,0 @@
-frontend2:
-  build: .
-  restart: always
