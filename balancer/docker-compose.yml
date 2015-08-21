@@ -3,3 +3,6 @@ balancer:
   ports:
   - 80:80
   restart: always
+  links:
+  - frontend1
+  – frontend2
