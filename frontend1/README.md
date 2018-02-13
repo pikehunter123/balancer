@@ -1,4 +1,0 @@
-## trukhin.com
-
-CV
-
